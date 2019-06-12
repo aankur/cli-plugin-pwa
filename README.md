@@ -1,4 +1,4 @@
-# @vue/cli-plugin-pwa
+# aankur/cli-plugin-pwa
 
 > pwa plugin for vue-cli
 

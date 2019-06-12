@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aankur/cli-plugin-pwa.git",
+    "url": "git+https://github.com/aankur/cli-plugin-pwa.git"
   },
   "keywords": [
     "vue",
